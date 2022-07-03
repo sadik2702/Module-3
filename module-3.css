@@ -1,0 +1,18 @@
+#heading1{
+    font-size: 4em;
+    font-family: sans-serif;
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 5px 5px;
+    color: tomato;
+    text-align: center;
+    width: max-content;
+    display: inline-block;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    text-align: center;
+}
